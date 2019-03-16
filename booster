@@ -16,6 +16,6 @@ echo ""
 
 echo ""
 
-ping 8.8.8.8 | lolcat
+ping 8.8.8.8
 
 fi
