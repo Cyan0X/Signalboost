@@ -4,11 +4,11 @@ figlet "SignalBoost" | lolcat
 
 sleep 1
 
-echo "\==================Signal Booster======================="
+echo "==================Signal Booster=======================" | lolcat
 
 sleep 1
 
-echo "\  ==================By Cyanxvy====================="
+echo "  ==================By Cyanxvy=======================" | lolcat
 
 sleep 1
 
